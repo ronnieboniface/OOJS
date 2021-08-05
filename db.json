@@ -1,0 +1,46 @@
+{
+  "adventurers": [
+    {
+      "name": "Warama Keenscar",
+      "charClass": "Wizard",
+      "race": "Human",
+      "image": "https://www.fantasy-faces.com/static/images/1/seed1503.png",
+      "id": 1
+    },
+    {
+      "name": "Elthanes Belqull",
+      "charClass": "Ranger",
+      "race": "Dragonborn",
+      "image": "https://i.imgur.com/l7yadaT.png",
+      "id": 2
+    },
+    {
+      "name": "Murkyl Lightbane",
+      "charClass": "Cleric",
+      "race": "Dwarf",
+      "image": "https://www.fantasy-faces.com/static/images/3/seed2705.png",
+      "id": 3
+    },
+    {
+      "name": "Elfaen",
+      "charClass": "Ranger",
+      "race": "Elf",
+      "image": "https://www.fantasy-faces.com/static/images/1/seed3169.png",
+      "id": 4
+    },
+    {
+      "name": "Zylben",
+      "charClass": "Rogue",
+      "race": "High-Elf",
+      "image": "https://www.fantasy-faces.com/static/images/1/seed3998.png",
+      "id": 5
+    },
+    {
+      "name": "Grodur",
+      "charClass": "Warlock",
+      "race": "Half-Orc",
+      "image": "https://i.imgur.com/CJ6xgmQ.png",
+      "id": 6
+    }
+  ]
+}
